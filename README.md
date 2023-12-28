@@ -1,2 +1,2 @@
-# bug-bounty-resorces
-here i can share bug bounty resources
+# bug-bounty-resources
+here i'm sharing bug bounty resources
